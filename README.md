@@ -13,7 +13,7 @@ Then we reshape this array into (270, 480, 3)
 This is the form of cv2 image 
 
 
-#Convert:
+# Convert:
 Numpy to bytes 
 bytes to Numpy
 Link: https://stackoverflow.com/questions/49511753/python-byte-image-to-numpy-array-using-opencv/61273896#61273896
