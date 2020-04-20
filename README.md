@@ -14,8 +14,8 @@ This is the form of cv2 image
 
 
 #Convert:
-*Numpy to bytes 
-*bytes to Numpy
+Numpy to bytes 
+bytes to Numpy
 Link: https://stackoverflow.com/questions/49511753/python-byte-image-to-numpy-array-using-opencv/61273896#61273896
 
 
